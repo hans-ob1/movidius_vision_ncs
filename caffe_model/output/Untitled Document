@@ -1,0 +1,15 @@
+<form>
+<input class="MyButton" type="button" value="Management Page" onclick="window.open('https://www.aisingapore.org/management/')"/> 
+</form> 
+<form>                                         
+<input class="MyButton" type="button" value="Research" onclick="window.open('https://www.aisingapore.org/research/')"/> 
+</form>
+<font>
+<input class="MyButton" type="button" value="Grand Challenge" onclick="window.open('https://www.aisingapore.org/grandchallenge/')"/>
+</font> 
+<font>
+<input class="MyButton" type="button" value="100 Experiements" onclick="window.open('https://www.aisingapore.org/100e/')"/>
+</font>
+<font>
+<input class="MyButton" type="button" value="AI Apprenticeship" onclick="window.open('https://www.aisingapore.org/aiap/')" />
+</form>
